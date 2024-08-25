@@ -57,6 +57,7 @@
 
 **25.Complementary Explanations for Effective In-Context Learning** ACL2023 [paper](https://aclanthology.org/2023.findings-acl.273.pdf)
 
+---
 
 **ordering**
 
@@ -70,7 +71,7 @@
 
 **5.Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning** ACL2024 [paper](https://aclanthology.org/2024.findings-acl.638.pdf)
 
-
+---
 
 **format**
 
@@ -80,7 +81,7 @@
 
 **3.In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering** ICML2024 [paper](https://openreview.net/attachment?id=dJTChKgv3a&name=pdf)
 
-
+---
 
 **CoT**
 

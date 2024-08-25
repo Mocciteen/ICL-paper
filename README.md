@@ -43,7 +43,7 @@
 
 **18."In-Context Learning" or: How I learned to stop worrying and love "Applied Information Retrieval"** SIGIR2024 [paper](https://arxiv.org/pdf/2405.01116)
 
-**19.$Se^2$: Sequential Example Selection for In-Context Learning** ACL2024 [paper](https://aclanthology.org/2024.findings-acl.312.pdf)
+**19.Se^2: Sequential Example Selection for In-Context Learning** ACL2024 [paper](https://aclanthology.org/2024.findings-acl.312.pdf)
 
 **20.RetICL: Sequential Retrieval of In-Context Examples with Reinforcement Learning** 202404 [paper](https://arxiv.org/pdf/2305.14502)
 
